@@ -1,4 +1,4 @@
-# Bu çalışmanın amacı, fotovoltaik sistemlerin performansını optimize etmek için
+ Bu çalışmanın amacı, fotovoltaik sistemlerin performansını optimize etmek için
 geliştirilen otomatik temizleme ve yönlendirme sistemini incelemektir. Bu sistem,
 görüntü işleme teknolojisi kullanarak panellerin yüzeyindeki biriken maddeleri tespit
 eder ve gerektiğinde otomatik temizleme mekanizmasını devreye sokar. Ayrıca, ışık
